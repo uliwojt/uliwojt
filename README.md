@@ -14,6 +14,7 @@ My name is Wojciech and I am at the beginning of my journey with programming - I
 - HTML
 - Typescript
 - GIT
+- Node.js (with Express)
 
 
 <!---
