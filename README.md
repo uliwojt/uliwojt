@@ -1,5 +1,4 @@
 # Hello, I’m Wojciech
-My name is Wojciech and I am at the beginning of my journey with programming - I am 100% self-taught programmer focused on learning Javascript.
 
 ## Some basic information about me
 - :open_book: I’m currently learning React
@@ -7,7 +6,7 @@ My name is Wojciech and I am at the beginning of my journey with programming - I
 - :hearts: I’m interested in sports (especially   indoor cycling, cycling :bicyclist: and running :runner: ) 
 - :laughing: fun fact about me: I can juggle :man_juggling:
 
-## Skills - in this areas I already got some knowledge:
+## Skills
 - Javascript
 - React
 - CSS (SCSS)
