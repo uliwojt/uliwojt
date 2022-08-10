@@ -1,18 +1,18 @@
 # Hello, I’m Wojciech
 
 ## Some basic information about me
-- :open_book: I’m currently learning Vue.js and improving my knowledge of React.js (with TypeScript)
+- :open_book: I’m currently learning Angular and improving my knowledge of React.js (with TypeScript)
 - :computer: I’m working on application to monitor sports gear usage
-- :hearts: I’m interested in sports (especially   indoor cycling, cycling :bicyclist: and running :runner: ) 
+- :hearts: I’m interested in sports (especially indoor cycling, cycling :bicyclist: and running :runner: ) 
 - :laughing: fun fact about me: I can juggle :man_juggling:
 
 ## Skills
 - JavaScript
 - React
+- TypeScript
 - Jest & React Testing Library
 - CSS (SCSS, CSS-in-JS)
 - HTML
-- TypeScript
 - GIT
 - Node.js (with Express)
 
